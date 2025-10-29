@@ -57,14 +57,14 @@ Having successfully completed the rigorous ALX Backend Software Development prog
 <p>These projects exemplify my passion for building practical, end-to-end solutions. (Update these with your strongest work!)</p>
 
 <div style="border: 2px solid #6366f1; padding: 20px; margin-bottom: 20px; border-radius: 12px; background-color: #f3f4f6;">
-<h3 style="margin-top: 0; color: #6366f1;">Project 1: [ALX Backend Project Name] (Scalable API)</h3>
+<h3 style="margin-top: 0; color: #6366f1;">Project 1: Fleet Management (Scalable API)</h3>
 <p>An API-first project demonstrating high-performance data handling and authentication, built to support millions of potential users. This forms the backbone of a platform-agnostic service.</p>
 <p><strong>Key Skills:</strong> Python/C, Asynchronous programming, Database Optimization, Unit Testing.</p>
 <a href="[Link to Repo]" style="color: #1d4ed8; text-decoration: none; font-weight: 700; border-bottom: 2px solid #1d4ed8;">» View Architecture & Code</a>
 </div>
 
 <div style="border: 2px solid #10b981; padding: 20px; margin-bottom: 20px; border-radius: 12px; background-color: #f3f4f6;">
-<h3 style="margin-top: 0; color: #10b981;">Project 2: [Frontend Project Name] (Cross-Platform UI)</h3>
+<h3 style="margin-top: 0; color: #10b981;">Project 2: AirBnb-Clone (Cross-Platform UI)</h3>
 <p>My current focus project: a fully responsive web application that consumes a custom backend, ensuring optimal accessibility and user experience on both mobile and desktop devices.</p>
 <p><strong>Key Skills:</strong> React/JS, Responsive Design, State Management, Accessibility (A11Y).</p>
 <a href="[Link to Live Demo]" style="color: #1d4ed8; text-decoration: none; font-weight: 700; border-bottom: 2px solid #1d4ed8;">» See Live Demo</a>
@@ -79,7 +79,7 @@ Having successfully completed the rigorous ALX Backend Software Development prog
 <tr>
 <td style="text-align: center; padding: 10px; vertical-align: top; border: none;">
 <p style="font-size: 1.1em; font-weight: 600;">Reach Out:</p>
-<a href="[Your LinkedIn Profile]" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge" style="margin: 5px;"></a>
+<a href="https://www.linkedin.com/in/oladipupo-odedeyi-ab0a2362/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge" style="margin: 5px;"></a>
 <a href="mailto:oladipupo.odedeyi@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email Badge" style="margin: 5px;"></a>
 </td>
 <td style="text-align: center; padding: 10px; vertical-align: top; border: none;">
