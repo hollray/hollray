@@ -1,98 +1,98 @@
+<!-- 1. Header & Dynamic Intro - Uses HTML for Centering and Styling -->
+
 <div align="center">
-  <img src="https://www.canva.com/design/DAGmnoSmjXg/DH2g21L2pTBuvxfamzyocA/edit?utm_content=DAGmnoSmjXg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="My Profile Banner" width="100%"/> 
-  <h1>
-    Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Odedeyi Oladipupo Joshua! 
-  </h1>
-  
-  <p>
-    <strong>Backend Software Engineer in Training | Problem Solver | Innovator</strong>
-  </p>
-  
-  <p>
-    <em>Passionate about leveraging technology to create impactful solutions for everyday challenges.</em>
-  </p>
-  
-  <p>
-    <a href="https://www.linkedin.com/in/oladipupo-odedeyi-ab0a2362/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> 
-    <a href="mailto:oladipupo.odedeyi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    </p>
+<h1 style="font-weight: 900; font-size: 3em; color: #1e40af;">👋 Hi, I'm [Your Name]</h1>
+<p style="font-size: 1.5em; color: #4b5563;">
+Full-Stack Software Engineer | Dedicated to building Global, Accessible Solutions.
+</p>
+<img src="https://komarev.com/ghpvc/?username=hollray&style=flat-square&color=blue" alt="Profile views counter">
 </div>
 
----
+<!-- 2. About Me: The Mission & ALX Journey -->
 
-## <img src="https://img.icons8.com/fluent/48/000000/user-male-circle.png" width="30px"/> About Me & My Mission
+<h2 style="color: #374151;">🚀 My Mission: Practical, Platform-Agnostic Solutions</h2>
 
-I'm currently deepening my expertise in backend development through the intensive **ALX Software Engineering program**. My journey into software engineering wasn't just about learning to code; it was ignited by a desire to **develop practical solutions** that address common challenges and genuinely **make life easier** for people.
-
-<details>
-  <summary><strong>My Core Motivation & Ambition</strong> (Click to expand)</summary>
-  
-  <p>
-    I am driven by the potential of software to transform complex problems into simple, elegant solutions. My ambition is to become a **globally recognized, sought-after software developer**, known for creating outstanding, reliable, and scalable applications. 
-  </p>
-  <p>
-    Specifically, I am deeply interested in tackling challenges faced at various levels:
-    <ul>
-      <li><img src="https://img.icons8.com/color/48/000000/government.png" width="20px"/> **Government:** Developing systems to improve public services, efficiency, and transparency.</li>
-      <li><img src="https://img.icons8.com/color/48/000000/business.png" width="20px"/> **Corporate Bodies:** Building robust backend infrastructure to streamline operations and drive business growth.</li>
-      <li><img src="https://img.icons8.com/emoji/48/000000/family--man-woman-girl-boy.png" width="20px"/> **Individuals:** Creating applications that simplify daily tasks and enhance quality of life.</li>
-    </ul>
-  </p>
-</details>
-
----
-
-## <img src="https://img.icons8.com/color/48/000000/developer-mode.png" width="30px"/> Tech Stack & Tools
-
-Here are some of the technologies I'm working with and learning through the ALX program and personal projects:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+<p style="font-size: 1.1em; line-height: 1.8;">
+I am a passionate software engineer driven by the desire to solve <strong>everyday problems</strong> with practical, platform-independent technology. My ultimate goal is to develop GCGO-type projects—solutions universally useful and impactful across the globe, not limited by technical complexity or platform understanding.
 </p>
----
-
-## <img src="https://img.icons8.com/color/48/000000/goal--v1.png" width="30px"/> What I'm Currently Focusing On
-
-* 🚀 Mastering backend concepts within the **ALX Software Engineering curriculum** (e.g., Data Structures & Algorithms, APIs, Database Management, System Design).
-* 🛠️ Building 'a RESTful API for a sample e-commerce platform' to apply learned concepts.
-* ☁️ Exploring cloud deployment strategies.
-* 🤝 Looking for opportunities to collaborate on open-source projects related to solving GCGO problems across the globe.
-
----
-
-## <img src="https://img.icons8.com/color/48/000000/combo-chart.png" width="30px"/> My GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hollyray&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="My GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hollyray&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
-  <br/>
-  </p>
----
-
-    ---
-
-## <img src="https://img.icons8.com/color/48/000000/contact-card.png" width="30px"/> Get In Touch
-
-I'm always open to connecting with fellow developers, potential collaborators, or employers. Feel free to reach out!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/oladipupo-odedeyi-ab0a2362/" target="_blank">LinkedIn</a> | 
-  <a href="mailto:oladipupo.odedeyi@gmail.com">Email</a> 
-  </p>
-
----
-<p align="center">
-  <em>Profile customized with passion ✨</em>
+<p style="font-size: 1.1em; line-height: 1.8;">
+Having successfully completed the rigorous ALX Backend Software Development program, I possess a strong foundation in scalable system design, C, Python, and database management. I am now actively learning Frontend development to complete my full-stack proficiency, ensuring I can deliver robust backend architecture with intuitive, friendly user experiences.
 </p>
+
+<!-- 3. Core Technical Skills - Uses Shields/Badges for Visual Appeal -->
+
+<h2 style="color: #374151;">🛠️ Tech Stack & Toolbox</h2>
+
+<p>I build with a strong focus on clean architecture, performance, and cross-platform compatibility:</p>
+
+💻 Backend Foundation (ALX Core)
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python Badge">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C-A8B9CC%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite" alt="C Language Badge">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" alt="Node.js Badge">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" alt="SQL Badge">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Shell_Script-121011%3Fstyle%3Dfor-the-badge%26logo%3Dgnu-bash%26logoColor%3Dwhite" alt="Shell Script Badge">
+
+🎨 Frontend & Current Focus
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" alt="HTML5 Badge">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" alt="CSS3 Badge">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript Badge">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" alt="React Badge">
+
+☁️ DevOps & Databases
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git Badge">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker Badge">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB Badge">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis Badge">
+
+<!-- 4. Featured Projects (Structured with HTML Divs) -->
+
+<h2 style="color: #374151;">🌟 Featured Projects: Building Global Utility</h2>
+
+<p>These projects exemplify my passion for building practical, end-to-end solutions. (Update these with your strongest work!)</p>
+
+<div style="border: 2px solid #6366f1; padding: 20px; margin-bottom: 20px; border-radius: 12px; background-color: #f3f4f6;">
+<h3 style="margin-top: 0; color: #6366f1;">Project 1: [ALX Backend Project Name] (Scalable API)</h3>
+<p>An API-first project demonstrating high-performance data handling and authentication, built to support millions of potential users. This forms the backbone of a platform-agnostic service.</p>
+<p><strong>Key Skills:</strong> Python/C, Asynchronous programming, Database Optimization, Unit Testing.</p>
+<a href="[Link to Repo]" style="color: #1d4ed8; text-decoration: none; font-weight: 700; border-bottom: 2px solid #1d4ed8;">» View Architecture & Code</a>
+</div>
+
+<div style="border: 2px solid #10b981; padding: 20px; margin-bottom: 20px; border-radius: 12px; background-color: #f3f4f6;">
+<h3 style="margin-top: 0; color: #10b981;">Project 2: [Frontend Project Name] (Cross-Platform UI)</h3>
+<p>My current focus project: a fully responsive web application that consumes a custom backend, ensuring optimal accessibility and user experience on both mobile and desktop devices.</p>
+<p><strong>Key Skills:</strong> React/JS, Responsive Design, State Management, Accessibility (A11Y).</p>
+<a href="[Link to Live Demo]" style="color: #1d4ed8; text-decoration: none; font-weight: 700; border-bottom: 2px solid #1d4ed8;">» See Live Demo</a>
+</div>
+
+<!-- 5. Connect & Engagement (using a table for clean layout) -->
+
+<h2 style="color: #374151;">🤝 Let's Connect!</h2>
+
+<div align="center">
+<table style="width: 100%; border: none; border-spacing: 20px 0;">
+<tr>
+<td style="text-align: center; padding: 10px; vertical-align: top; border: none;">
+<p style="font-size: 1.1em; font-weight: 600;">Reach Out:</p>
+<a href="[Your LinkedIn Profile]" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn Badge" style="margin: 5px;"></a>
+<a href="mailto:oladipupo.odedeyi@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email Badge" style="margin: 5px;"></a>
+</td>
+<td style="text-align: center; padding: 10px; vertical-align: top; border: none;">
+<p style="font-size: 1.1em; font-weight: 600;">GitHub Activity:</p>
+<img src="https://github-readme-stats.vercel.app/api?username=hollray&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="GitHub Stats" style="margin-bottom: 10px; max-width: 100%;">
+</td>
+</tr>
+</table>
+
+<p style="font-style: italic; color: #6b7280;">
+Feel free to fork my repositories or open an issue if you see an opportunity for improvement!
+</p>
+</div>
+
+<!-- 6. Optional: GitHub Trophy Section (For a professional touch) -->
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dhollray&theme=gruvbox&no-frame=true&no-bg=true" alt="GitHub Trophies" style="max-width: 100%;">
+</div>
