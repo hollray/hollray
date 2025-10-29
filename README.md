@@ -1,7 +1,10 @@
 <!-- 1. Header & Dynamic Intro - Uses HTML for Centering and Styling -->
+<div align="center">
+  <img src="https://drive.google.com/file/d/1esMFLP9qHKv6m8oVVRVgnM8xHQKuUJEg/view?usp=sharing" alt="My Profile Banner" width="100%"/> 
+  </div>
 
 <div align="center">
-<h1 style="font-weight: 900; font-size: 3em; color: #1e40af;">👋 Hi, I'm [Your Name]</h1>
+<h1 style="font-weight: 900; font-size: 3em; color: #1e40af;">👋 Hi, I'm Joshua Odedeyi</h1>
 <p style="font-size: 1.5em; color: #4b5563;">
 Full-Stack Software Engineer | Dedicated to building Global, Accessible Solutions.
 </p>
